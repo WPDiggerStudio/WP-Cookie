@@ -6,7 +6,8 @@
     "Cookies",
     "HHVM",
     "PHP",
-    "WordPress"
+    "WordPress",
+    "WPEngine"
   ],
   "license": "MIT",
   "authors": [
