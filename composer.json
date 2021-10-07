@@ -1,5 +1,5 @@
 {
-  "name": "WPDiggerStudio/WPCookie",
+  "name": "wpdiggerstudio/wpcookie",
   "type": "library",
   "description": "PHP library for handling cookies especially created for WPEngine hosted sites.",
   "keywords": [
