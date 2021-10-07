@@ -1,4 +1,4 @@
-# WP-Cookie
+# WPCookie
 PHP library for handling cookies especially created for WPEngine hosted sites
 
 ---
@@ -22,14 +22,14 @@ This library is supported by **PHP versions 5.6** or higher.
 
 The preferred way to install this extension is through [Composer](http://getcomposer.org/download/).
 
-To install **WP-Cookie library**, simply:
+To install **WPCookie library**, simply:
 
-    $ composer require WPDiggerStudio/WP-Cookie
+    $ composer require WPDiggerStudio/WPCookie
 
 
 You can also **clone the complete repository** with Git:
 
-	$ git clone https://github.com/WPDiggerStudio/WP-Cookie.git
+	$ git clone https://github.com/WPDiggerStudio/WPCookie.git
 
 ## Available Methods
 
