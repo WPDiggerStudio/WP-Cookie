@@ -45,7 +45,7 @@ Cookie::set($key, $value, $time);
 | --- | --- | --- | --- | --- |
 | $key | Cookie name. | string | Yes | |
 | $value | The data to save. | string | Yes | |
-| $time | Expiration time in days. | string | No | 365 |
+| $time | Expiration time in days. | string | No | 100 |
 
 **# Return** (boolean)
 
@@ -161,13 +161,13 @@ To use this class with **Composer**:
 ```php
 require __DIR__ . '/vendor/autoload.php';
 
-use Josantonius\Cookie\Cookie;
+use WPDiggerStudio\WPCookie\WPCookie;
 ```
 
 Or If you installed it **manually**, use it:
 
 ```php
-require_once __DIR__ . '/Cookie.php';
+require_once __DIR__ . '/WPCookie.php';
 
 use WPDiggerStudio\WPCookie\WPCookie;
 ```
